@@ -1,0 +1,6 @@
+pip install openai
+pip install Flask
+pip install pandas
+pip install fuzzywuzzy[speedup]
+pip install python-Levenshtein
+pip install requests

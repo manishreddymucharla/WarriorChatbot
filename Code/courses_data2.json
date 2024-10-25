@@ -1,0 +1,26 @@
+{
+    "Principles of Management": {
+        "description": "This course provides an overview of key management principles.",
+        "link": "https://www.indianatech.edu/course/principles-of-management",
+        "credits": "3 Credits",
+        "duration": "8 weeks"
+    },
+    "Accounting 102": {
+        "description": "Introduction to financial accounting principles and practices.",
+        "link": "https://www.indianatech.edu/course/accounting-101",
+        "credits": "4 Credits",
+        "duration": "12 weeks"
+    },
+    "Accounting 103": {
+        "description": "Introduction to financial accounting principles and practices.",
+        "link": "https://www.indianatech.edu/course/accounting-101",
+        "credits": "4 Credits",
+        "duration": "12 weeks"
+    },
+    "Accounting 104": {
+        "description": "Introduction to financial accounting principles and practices.",
+        "link": "https://www.indianatech.edu/course/accounting-101",
+        "credits": "4 Credits",
+        "duration": "12 weeks"
+    }
+}
